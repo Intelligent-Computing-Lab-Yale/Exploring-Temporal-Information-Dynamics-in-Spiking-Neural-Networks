@@ -1,6 +1,6 @@
 # Understanding Temporal Information Dynamics in Spiking Neural Networks
 
-Pytorch code for [Understanding Temporal Information Dynamics in Spiking Neural Networks] 
+Pytorch code for [Understanding Temporal Information Dynamics in Spiking Neural Networks] - AAAI23
 
 ## Dependencies
 * Python 3.9    
